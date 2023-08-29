@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">W07-NumberList-2023</string>
+    <string name="longtext">long</string>
+    <string name="shorttext">short</string>
 </resources>
